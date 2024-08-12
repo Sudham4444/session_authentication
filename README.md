@@ -32,15 +32,15 @@ This project demonstrates how to implement session-based authentication in a Dja
 
 3. **Activate the Virtual Environment:**
 
-   Windows:
-  
-     ```bash
-     .\env\Scripts\activate
-  
-  macOS/Linux:
-  
-     ```bash
-     source env/bin/activate
+    - Windows:
+
+      ```bash
+        .\env\Scripts\activate
+
+    - macOS/Linux:
+   
+      ```bash
+        source env/bin/activate
 
 4. **Install the Requirements:**
 
