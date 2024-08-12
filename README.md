@@ -61,25 +61,25 @@ This project demonstrates how to implement session-based authentication in a Dja
 
     Open your web browser and go to http://127.0.0.1:8000/ to view the application.
 
-##Usage
+## Usage
 
  `Register:` Go to /register/ to create a new account.
  `Login:` Go to /login/ to log in to your account.
  `Logout:` Click on the logout link to end your session.
 
-##License
+## License
 
- This project is licensed under the MIT License. See the LICENSE file for details.
+   This project is licensed under the MIT License. See the LICENSE file for details.
 
-##Contributing
+## Contributing
 
  Feel free to open issues or submit pull requests for improvements.
 
-##Acknowledgments
+## Acknowledgments
 
  Django Documentation
  Django Session Authentication
 
-##Contact
+## Contact
 
  For any questions or issues, please contact at sudhamsingh2412@gmail.com.
