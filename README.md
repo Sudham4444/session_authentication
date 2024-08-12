@@ -22,7 +22,7 @@ This project demonstrates how to implement session-based authentication in a Dja
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/PrathameshPC77/session_authentication.git
+   git clone https://github.com/Sudham4444/session_authentication.git
    cd session_authentication
 
 2. **Create a Virtual Environment:**
